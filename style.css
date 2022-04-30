@@ -1,4 +1,11 @@
 section {
     margin: auto;
     width: 50%;
+    background: linear-gradient(110deg, lightblue 60%, #ffed4b 60%);
+}
+
+#RS-logo {
+    height: 50%;
+    width: 48px;
+    border-radius: 50%;
 }
