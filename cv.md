@@ -8,8 +8,8 @@ Hi! My name is Martins Kruklis and I am learning software development at  **The 
 *Telegram*: @markruk <br>
 *Email:* martins.kruklis@gmail.com <br>
 
-##Skills
-###Languages
+## Skills
+### Languages
 
  1. HTML
  2. PHP
